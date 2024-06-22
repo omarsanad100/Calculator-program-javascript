@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Calculator App Project
 
 This is a simple calculator web application built with HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
